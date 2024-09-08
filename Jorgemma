@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html= lang="en">
+   <head>
+      <title>JorgeDev</title>
+      <meta charset="UTF-8">
+      <meta name ="viewport" content="width=divice-width, initial-scale=1.0">
+      <meta name="description" content="pagina personal de JMMA">
+      <meta name ="keywords" content=" UNAM, Fes Aragón la mejor">
+      <link rel="stylesheet" href="master.css"
+    <title>:D</title>
+   </head>
+<body>
+   <header>
+        <h1>Mi pagina personal </h1>
+        <nav>
+            <UL>
+                <li><a href="https://www.unam.mx/">UNAM</a></li>
+                <li><a href="https://www.aragon.unam.mx/fes-aragon">Fes Aragón</a></li>
+                <li><a href="https://www.aragon.unam.mx/fes-aragon/public_html/documents/licenciaturas/computacion/malla-curricular/primer-semestre/computadoras_programacion.pdf">ICO</a></li>
+                <li><a href="https://github.com/">Github</a></li>
+            </UL>
+        </nav>
+   </header>
+   <main>
+    <section>
+        <h1> Mis estudios</h1>
+        <article><h3>Soy estudiante de quinto semestre de la carrera de ingenieria en computacion del plantel fes aragon, llevo aproximadamente 2 años estudiando en el turno de la tarde</h3></article>
+        <p>Mi profesor de esta materia es Jesus Cabrera</p>
+    </section>
+        </section>
+        <section>
+            <h1> Tecnologias</h1>
+            <article><h3>Hasta el momento me gusta usar python y un poco de java, son los leguajes que he visto y que me gustaria dominar mas, actualmente trabajo con visual studio code </h3></article>
+            <p>Me gustaria aprender mas html y todo lo que conlleva hacer un sitio web</p>
+        </section>
+        <section>
+            <h1> Sobre mi</h1>
+            <article><h3>Me gusta mucho descubir nueva musica, pasar el tiempo con mis amigos, practico tenis y natación, mi album favorito se llama "data" y hasta ahorita me esta gustando mi carrera</h3></article>
+            <p>Me gusta que el profesor vaya a un ritmo un poco despacio, asi siento que podemos aprender mejor y enter todo claro</p>
+        </section>
+   </main>
+   <footer>
+        <p> Todos los derechos reservados Jorge 2024</p>
+   </footer>
+</body>
+</html>
